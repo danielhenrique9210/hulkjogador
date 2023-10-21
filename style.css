@@ -1,0 +1,90 @@
+body{
+    background-image: linear-gradient(#00000001, #00000063),url(hulkbody.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 230vh;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu li{
+    list-style: none;
+}
+.menu a{
+text-decoration: none;
+font-size: 19px;
+color: white;
+border-radius: 20px;
+transition: 0.6s;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menu{
+    max-width: 1400px;
+    padding: 0%;
+    margin: 0 auto;
+}
+nav .hulk{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+nav ul li a:hover{
+    background-color: black;
+}
+#vitoria img{
+    float: left;
+    width: 150px;
+    height: auto;
+   margin-right: 10px;
+}
+#kawasaki img{
+    width: 150px;
+    height: auto;
+}
+#consadole{
+    height: 200px;
+    width: auto;
+}
+#tokyo img{
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
+#porto img{
+float: left;
+width: 245px;
+height: auto;
+margin-right: 10px;
+}
+#zenit img{
+float: left;
+width: 345px;
+height: auto;
+margin-right: 10px;
+}
+#shanghai{
+    width: 200px;
+}
+#br21 img{
+    float: left;
+    width: 345px;
+    height: auto;
+    margin-right: 10px;
+}
+#taçaSC img{
+    float: left;
+    width: 300px;
+    height: auto;
+    margin-right: 10px;
+}
+#seleção img{
+    float: left;
+    width: 155px;
+    height: auto;
+    margin-right: 10px;
+}
+
